@@ -1,0 +1,37 @@
+body {margin:auto; background: green; stroke: auto;}
+
+#box1 {
+	width: 50%;
+	height: 75%;
+	padding:20px;
+	color: blue;
+	background: yellow;
+    position:relative;
+    display:block;
+    float:left;
+    margin-left: 10px;
+    padding-top: : 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+#box2 {
+    width: 50%;
+	height: 75%;
+	padding-top: : 20;
+    padding-bottom:20px;
+    padding-right: 20px;
+    padding-left: 20px;
+	color: red;
+	background: blue;
+    border: 10px solid purple;
+    position: relative;
+    display:block;
+    float:right;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
